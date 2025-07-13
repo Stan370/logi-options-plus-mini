@@ -1,7 +1,7 @@
 # Logi Options Plus Mini
 [中文](README.md) | [English](README_EN.md)
 
-**Logi Options+ mini** 提供了一种选择来自定义 Logi Options+，方便用户能够更好地控制其功能。
+Remove updates. **Logi Options+ mini** 提供了一种选择来自定义 Logi Options+，方便用户能够更好地控制其功能。
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/c20e0a5a-256d-4fa0-bc16-c972d32a4f51">
 <img width="600" alt="image" src="https://github.com/Qetesh/logi-options-plus-mini/assets/4559341/d4c503a9-51d8-4a18-af90-a3f3be508e8b">
